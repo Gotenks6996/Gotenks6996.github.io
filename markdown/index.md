@@ -30,3 +30,23 @@ Hello guys myself Yash Jadhav an undergrad in [IIT Goa](https://www.google.com/u
 * **CH 103** - *Chemistry Lab*
 * **ME 101** - *Introduction to Manufacturing*
 * **NO 101** - *National Sports Organization* : Santosh
+### Autumn Semester
+1. **EE 101** - *Introduction to Electrical and Electronics Engineering* : Apeksha , Bidhan
+2.  **BIO 101** - *Introductory Biology* : Shreenath 
+3.  **MTH 102** - *Basic Linear Algebra* : Kalpesh
+4. **MTH 103** - *Ordinary Differential Equations*  
+5. **PH 102** - *Electricity and Magnetism* : Vaibhav , Santosh
+6. **PH 103** - *Physics Lab*
+7. **ME 102** - *Engineering Graphics and Introduction to Computer-Aided-Drawing* : Arindam
+8. **NO 102** - *National Sports Organization* : Santosh
+
+## Hobbies 
+### Being an sports enthusiast i love to play various sports 
+* Cricket
+* Football
+* Chess
+* E-games
+
+## Contact 
+* Phone : +91 9967013147
+* E-mail : jadhavyash134@gmail.com
